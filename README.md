@@ -51,7 +51,7 @@ Replace the example projects below with your own.
     <a href="https://mercanto.mx/" target="blank"><b>Mercanto</b></a> - A highly scalable solution for Mexican businesses facilitating Business to Business to Customer engagement. 
   </li>
   <li>
-    <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event driven banking solution, 3.5+ million user base, 3400+ requests per second, 1500+ being transactions.
+    <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event driven banking solution, 3.5+ million users, 3400+ requests per second, 1500+ being transactions.
   </li>
 </ul>
 
