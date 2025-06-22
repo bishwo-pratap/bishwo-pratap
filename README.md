@@ -25,23 +25,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwo-pratap" alt="bishwo-pratap" /></a>
 </p>
 
-<!-- ================== BIO SECTION ================== -->
-<h2>🧑 About Me</h2>
-
-- 🔭 I’m currently working on <b>Conpago</b>
-
-- 👯 I’m looking to collaborate on <b>JS projects</b>
-
-- 💬 Ask me about **<i> express, Nest, React, JS, TS, AWS, Testing, System Designs, Scalable Systems, MicroServices</i>**
-
-- 🌱 I’m currently learning <b>Akashic Records 🔮, Pranic Healing 🧙‍♂️</b>
-
-- 📫 How to reach me: <b>dev.bishwwwo@gmail.com</b>
-
-- ⚙️ In the grind since <b>10 years</b>
-
-- ⚡ Fun fact: THE ONLY CONSTANT IS CHANGE :) 
-
 <!-- ================== SHOWCASE PROJECTS ================== -->
 <h2>🚀 Featured Projects</h2>
 <!--
@@ -59,6 +42,37 @@ Replace the example projects below with your own.
     <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event driven banking solution, 3.5+ million user base, 3400+ requests per second, 1500+ being transactions.
   </li>
 </ul>
+
+<!-- ================== BIO SECTION ================== -->
+<h2>🧑 About Me</h2>
+
+- 🔭 I’m currently working on <b>Conpago</b>
+
+- 👯 I’m looking to collaborate on <b>building tech</b>
+
+- 💬 Ask me about **<i> express, Nest, React, JS, TS, AWS, Testing, System Designs, Scalable Systems, MicroServices</i>**
+
+- 🧠 Advocate of **Test-Driven Development (TDD)** and sustainable engineering practices
+
+- ⚙️ Proficient in Agile methodologies, delivering high-value iterations in dynamic environments
+
+- 🧭 Contributor to 40+ projects across:
+
+  - 💳 Fintech
+  - 🛒 E-commerce
+  - 🌍 Travel
+  - 🩺 Health Tech
+  - 📦 Inventory & Supply Chain
+  - 🧑‍💼 Workforce Management
+
+- 🌱 I’m currently learning <b>Akashic Records 🔮, Pranic Healing 🧙‍♂️</b>
+
+- 📫 How to reach me: <b>dev.bishwwwo@gmail.com</b>
+
+- ⚙️ In the grind since <b>10 years</b>
+
+- ⚡ Fun fact: THE ONLY CONSTANT IS CHANGE :) 
+
 
 
 <p>
