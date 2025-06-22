@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi 👋, I'm Bishwo</h1>
-<h3 align="center">A passionate software developer from Australia</h3>
+<h3 align="center">A passionate software developer from Nepal, currently in Australia</h3>
 
 <picture>
   <source
