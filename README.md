@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bishwo-pratap&label=Profile%20views&color=0e75b6&style=flat" alt="bishwo-pratap" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Bishwo</h1>
 <h3 align="center">A passionate software developer from Australia</h3>
@@ -32,13 +35,7 @@ Here are some ideas to get you started:
   />
 </picture>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bishwo-pratap&label=Profile%20views&color=0e75b6&style=flat" alt="bishwo-pratap" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwo-pratap" alt="bishwo-pratap" /></a>
-</p>
 
 <!-- ================== SHOWCASE PROJECTS ================== -->
 <h2>🚀 Featured Projects</h2>
