@@ -87,9 +87,9 @@ Replace the example projects below with your own.
 - When I'm not coding: 🧘‍♂️ self-exploration | 💻 exploring new tech | 🥾 hiking | ☕ coffee
 
 ## 💼 Worked For
-
+```text
 🎓 Graduated (2016)  
-   │ \n 
+   │
    ├── 🛍️ Rakuten *(2015 – 2016)* 
    │     E-commerce, inventory & supply chain management innovation  
    │
@@ -107,6 +107,8 @@ Replace the example projects below with your own.
    │
    └── 👵 Conpago *(2024 – Present)*
          Aged care tech, real-world impact 
+```
+
 ## 📫 Connect with Me
 
 - 📧 Email: [dev.bishwwwo@gmail.com](mailto:dev.bishwwwo@gmail.com)
