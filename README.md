@@ -67,18 +67,20 @@ Replace the example projects below with your own.
 
 - 🌱 I’m currently learning <b>Akashic Records 🔮, Pranic Healing 🧙‍♂️</b>
 
-- 📫 How to reach me: <b>dev.bishwwwo@gmail.com</b>
-
 - ⚙️ In the grind since <b>10 years</b>
 
 - ⚡ Fun fact: THE ONLY CONSTANT IS CHANGE :) 
-- When I'm not coding: 🧘‍♂️ self-exploration | 💻 new tech | 🥾 hiking | ☕ coffee
+- When I'm not coding: 🧘‍♂️ self-exploration | 💻 exploring new tech | 🥾 hiking | ☕ coffee
 
 
-<h3 align="left">Connect with me:</h3>
+## 📫 Connect with Me
+
+- 📧 Email: [dev.bishwwwo@gmail.com](mailto:dev.bishwwwo@gmail.com)
+
+<h3 align="left">🌐 Social Links:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bishwo-pratap-bhagat-075a6093/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishwo" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/bishwo-pratap-bhagat-075a6093/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishwo linkedin" height="30" width="40" />
   </a>
 </p>
 
@@ -160,7 +162,7 @@ Replace the example projects below with your own.
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/7bbf9212-b7ca-46b8-b60a-d1c3fbaf29a0" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -178,7 +180,7 @@ Replace the example projects below with your own.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/8f7bc6c9-802f-4bfc-9716-685066812a6f" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
