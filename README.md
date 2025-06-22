@@ -89,7 +89,7 @@ Replace the example projects below with your own.
 ## 💼 Worked For
 
 🎓 Graduated (2016)  
-   │
+   │ \n 
    ├── 🛍️ Rakuten *(2015 – 2016)* 
    │     E-commerce, inventory & supply chain management innovation  
    │
