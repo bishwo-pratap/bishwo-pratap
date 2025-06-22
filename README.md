@@ -86,7 +86,7 @@ Replace the example projects below with your own.
 - ⚡ Fun fact: THE ONLY CONSTANT IS CHANGE :) 
 - When I'm not coding: 🧘‍♂️ self-exploration | 💻 exploring new tech | 🥾 hiking | ☕ coffee
 
-## 💼 Worked For
+## 🏃 My Journey So Far
 ```text
 🎓 Graduated (2016)  
    │
