@@ -86,6 +86,14 @@ Replace the example projects below with your own.
 - ⚡ Fun fact: THE ONLY CONSTANT IS CHANGE :) 
 - When I'm not coding: 🧘‍♂️ self-exploration | 💻 exploring new tech | 🥾 hiking | ☕ coffee
 
+## 💼 Worked For
+
+- 🛍️ **Rakuten** *(2015 – 2016)*  
+- ✈️ **XcelTrip** *(2017 – 2018)*  
+- 🏦 **Global IME Bank** *(2018 – 2020)*  
+- ☁️ **CloudFactory** *(2020 – 2021)*  
+- 🧠 **Mercanto** *(2021 – 2023)*  
+- 👵 **Conpago** *(2024 – Present)*
 
 ## 📫 Connect with Me
 
@@ -235,12 +243,4 @@ Replace the example projects below with your own.
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishwo-pratap&show_icons=true&locale=en&layout=compact" alt="bishwo-pratap" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwo-pratap&show_icons=true&locale=en" alt="bishwo-pratap" />
 </p>
