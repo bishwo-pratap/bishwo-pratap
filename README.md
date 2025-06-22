@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>Conpago</b>
 
-- 🌱 I’m currently learning <b>Akashic Records 🔮, Pranic Healing 🧙‍♂️</b>
-
 - 👯 I’m looking to collaborate on <b>JS projects</b>
 
-- 💬 Ask me about <i>Nest, JS, TS, AWS, testing, system designs, scalable systems, micro services</i>
+- 💬 Ask me about **<i> express, Nest, React, JS, TS, AWS, Testing, System Designs, Scalable Systems, MicroServices</i>**
+
+- 🌱 I’m currently learning <b>Akashic Records 🔮, Pranic Healing 🧙‍♂️</b>
 
 - 📫 How to reach me: <b>dev.bishwwwo@gmail.com</b>
 
@@ -46,19 +46,10 @@ With <b>10</b> years in software development building <b>scalable apps</b> and s
 
 Proficient in Agile methodologies, excelling in dynamic environments, delivering iterative values to clients. Recognizing and addressing technical debt strategically, ensuring code sustainability. 
 
-My contributions include <b>25+</b> project deliveries with versatile span in <i>Fintech, E-commerce, Travel,  Health Technology, Inventory Management, Workforce Management </i>. Passionate about innovative solutions, my experience reflects a commitment to excellence in the ever-evolving software landscape.
+Contributions to <b>40</b> project with versatile span in <i>Fintech, E-commerce, Travel,  Health Technology, Inventory and Supply Chain Management, Workforce Management</i>. Passionate about innovative solutions, my experience reflects a commitment to excellence in the ever-evolving software landscape.
 
-When I'm not coding, you'll find me exploring new tech, hiking, or enjoying a good cup of coffee.
+When I'm not coding, you'll find me exploring self and new tech, hiking, or enjoying a good cup of coffee.
 </p>
-
-- 🔭 I’m currently working on **Conpago**
-
-- 👯 I’m looking to collaborate on **JS projects**
-
-- 💬 Ask me about **React, Express, AWS, NestJS, micro services, scaling, jest testing**
-
-- 📫 How to reach me **dev.bishwwwo@gmail.com**
-
 <!-- ================== SHOWCASE PROJECTS ================== -->
 <h2>🚀 Featured Projects</h2>
 <!--
@@ -73,7 +64,7 @@ Replace the example projects below with your own.
     <a href="https://mercanto.mx/" target="blank"><b>Mercanto</b></a> - A highly scalable solution for Mexican businesses facilitating Business to Business to Customer engagement. 
   </li>
   <li>
-    <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - With new Global Smart Plus omni-channel banking, discover quick, simple and convenient way to manage your bank account.
+    <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event driven banking solution, 3.5+ million user base, 3400+ requests per second, 1500+ being transactions.
   </li>
 </ul>
 
