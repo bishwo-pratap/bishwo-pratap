@@ -88,13 +88,25 @@ Replace the example projects below with your own.
 
 ## 💼 Worked For
 
-- 🛍️ **Rakuten** *(2015 – 2016)*  
-- ✈️ **XcelTrip** *(2017 – 2018)*  
-- 🏦 **Global IME Bank** *(2018 – 2020)*  
-- ☁️ **CloudFactory** *(2020 – 2021)*  
-- 🧠 **Mercanto** *(2021 – 2023)*  
-- 👵 **Conpago** *(2024 – Present)*
-
+🎓 Graduated (2016)  
+   │
+   ├── 🛍️ Rakuten *(2015 – 2016)* 
+   │     E-commerce, inventory & supply chain management innovation  
+   │
+   ├── ✈️ XcelTrip *(2017 – 2018)*  
+   │     Travel with crypto and payment gateways
+   │
+   ├── 🏦 Global IME Bank *(2018 – 2020)*  
+   │     Core banking & FinTech systems  
+   │
+   ├── ☁️ CloudFactory *(2020 – 2021)*  
+   │     Data ops & crowd-powered solutions  
+   │
+   ├── 🧠 Mercanto *(2021 – 2023)*  
+   │     B2B2C supply chain and E-commerce with step pay for B2B clients
+   │
+   └── 👵 Conpago *(2024 – Present)*
+         Aged care tech, real-world impact 
 ## 📫 Connect with Me
 
 - 📧 Email: [dev.bishwwwo@gmail.com](mailto:dev.bishwwwo@gmail.com)
