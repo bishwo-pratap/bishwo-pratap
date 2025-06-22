@@ -38,18 +38,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: <b>dev.bishwwwo@gmail.com</b>
 
+- ⚙️ In the grind since <b>10 years</b>
+
 - ⚡ Fun fact: THE ONLY CONSTANT IS CHANGE :) 
 
-<p>
-  <!-- Example bio, replace with your own! -->
-With <b>10</b> years in software development building <b>scalable apps</b> and solving real-world problems with code. I specialize in <b>event-driven architectures</b> and <b>Test-Driven Development</b> for code quality. <b>7</b> years of various leadership experience. In terms of leadership, I’ve successfully managed development teams, emphasizing collaboration and achieving collective goals.
-
-Proficient in Agile methodologies, excelling in dynamic environments, delivering iterative values to clients. Recognizing and addressing technical debt strategically, ensuring code sustainability. 
-
-Contributions to <b>40</b> project with versatile span in <i>Fintech, E-commerce, Travel,  Health Technology, Inventory and Supply Chain Management, Workforce Management</i>. Passionate about innovative solutions, my experience reflects a commitment to excellence in the ever-evolving software landscape.
-
-When I'm not coding, you'll find me exploring self and new tech, hiking, or enjoying a good cup of coffee.
-</p>
 <!-- ================== SHOWCASE PROJECTS ================== -->
 <h2>🚀 Featured Projects</h2>
 <!--
@@ -67,6 +59,18 @@ Replace the example projects below with your own.
     <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event driven banking solution, 3.5+ million user base, 3400+ requests per second, 1500+ being transactions.
   </li>
 </ul>
+
+
+<p>
+  <!-- Example bio, replace with your own! -->
+With <b>10</b> years in software development, building <b>scalable apps</b> and solving real-world problems with code. I specialize in <b>event-driven architectures</b> and <b>Test-Driven Development</b> for code quality. <b>7</b> years of various leadership experience. In terms of leadership, I’ve successfully managed development teams, emphasizing collaboration and achieving collective goals.
+
+Proficient in Agile methodologies, excelling in dynamic environments, delivering iterative values to clients. Recognizing and addressing technical debt strategically, ensuring code sustainability. 
+
+Contributions to <b>40</b> project with versatile span in <i>Fintech, E-commerce, Travel,  Health Technology, Inventory and Supply Chain Management, Workforce Management</i>. Passionate about innovative solutions, my experience reflects a commitment to excellence in the ever-evolving software landscape.
+
+When I'm not coding, you'll find me exploring self and new tech, hiking, or enjoying a good cup of coffee.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
