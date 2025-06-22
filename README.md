@@ -27,11 +27,17 @@ Here are some ideas to get you started:
 
 <!-- ================== BIO SECTION ================== -->
 <h2>🧑 About Me</h2>
+
 - 🔭 I’m currently working on <b>Conpago</b>
+
 - 🌱 I’m currently learning <b>Akashic Records 🔮, Pranic Healing 🧙‍♂️</b>
+
 - 👯 I’m looking to collaborate on <b>JS projects</b>
+
 - 💬 Ask me about <i>Nest, JS, TS, AWS, testing, system designs, scalable systems, micro services</i>
+
 - 📫 How to reach me: <b>dev.bishwwwo@gmail.com</b>
+
 - ⚡ Fun fact: THE ONLY CONSTANT IS CHANGE :) 
 
 <p>
