@@ -71,6 +71,8 @@ Replace the example projects below with your own.
 - 🧭 Contributor to **40** projects across:
 
   - 💳 Fintech
+    - 🏦 Traditional / Centralized
+    - 🌐 Decentralized (DeFi)
   - 🛒 E-commerce
   - 🌍 Travel
   - 🩺 Health Tech
