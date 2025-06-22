@@ -56,7 +56,7 @@ Replace the example projects below with your own.
 
 - ⚙️ Proficient in Agile methodologies, delivering high-value iterations in dynamic environments
 
-- 🧭 Contributor to 40+ projects across:
+- 🧭 Contributor to **40** projects across:
 
   - 💳 Fintech
   - 🛒 E-commerce
