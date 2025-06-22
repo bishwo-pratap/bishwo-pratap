@@ -72,19 +72,8 @@ Replace the example projects below with your own.
 - ⚙️ In the grind since <b>10 years</b>
 
 - ⚡ Fun fact: THE ONLY CONSTANT IS CHANGE :) 
+- When I'm not coding: 🧘‍♂️ self-exploration | 💻 new tech | 🥾 hiking | ☕ coffee
 
-
-
-<p>
-  <!-- Example bio, replace with your own! -->
-With <b>10</b> years in software development, building <b>scalable apps</b> and solving real-world problems with code. I specialize in <b>event-driven architectures</b> and <b>Test-Driven Development</b> for code quality. <b>7</b> years of various leadership experience. In terms of leadership, I’ve successfully managed development teams, emphasizing collaboration and achieving collective goals.
-
-Proficient in Agile methodologies, excelling in dynamic environments, delivering iterative values to clients. Recognizing and addressing technical debt strategically, ensuring code sustainability. 
-
-Contributions to <b>40</b> project with versatile span in <i>Fintech, E-commerce, Travel,  Health Technology, Inventory and Supply Chain Management, Workforce Management</i>. Passionate about innovative solutions, my experience reflects a commitment to excellence in the ever-evolving software landscape.
-
-When I'm not coding, you'll find me exploring self and new tech, hiking, or enjoying a good cup of coffee.
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
