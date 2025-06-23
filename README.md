@@ -81,9 +81,12 @@ Replace the example projects below with your own.
 
 - 🌱 I’m currently learning <b>Akashic Records 🔮, Pranic Healing 🧙‍♂️</b>
 
-- ⚙️ In the grind since <b>10 years</b>
+- 🤖 <b>10 years</b> in the grind since
+  
+- 🥷 <b>7 years</b> leading projects and teams 
 
-- ⚡ My Motto: THE ONLY CONSTANT IS CHANGE :) 
+- ⚡ My Motto: THE ONLY CONSTANT IS CHANGE :)
+  
 - When I'm not coding: 🧘‍♂️ self-exploration | 💻 exploring new tech | 🥾 hiking | ☕ coffee
 
 ## 🏃 My Journey So Far
