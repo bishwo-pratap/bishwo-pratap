@@ -51,7 +51,7 @@ Replace the example projects below with your own.
     <a href="https://mercanto.mx/" target="blank"><b>Mercanto</b></a> - A highly scalable solution for Mexican businesses facilitating Business to Business to Customer engagement. 
   </li>
   <li>
-    <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event driven banking solution, 3.5+ million users, 3400+ requests per second (1500+ transactions per second).
+    <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event driven banking solution, 3.5+ million users, 3400+ requests per second (1500+ transactions per second), average scale rate of approx 3.08% per service.
   </li>
 </ul>
 
@@ -79,15 +79,15 @@ Replace the example projects below with your own.
   - 📦 Inventory & Supply Chain
   - 🧑‍💼 Workforce Management
 
-- 🌱 I’m currently learning <b>Akashic Records 🔮, Pranic Healing 🧙‍♂️</b>
+- 🌱 I’m currently learning <b>Akashic Records 📖, Pranic Healing 🧙‍♂️</b>
 
-- 🤖 <b>10 years</b> in the grind since
+- 🤖 <b>10 years</b> in the grind
   
-- 🥷 <b>7 years</b> leading projects and teams 
+- 🥷 <b>6+ years</b> leading projects and teams 
 
-- ⚡ My Motto: THE ONLY CONSTANT IS CHANGE :)
+- ⚡ The Motto: THE ONLY CONSTANT IS CHANGE :)
   
-- When I'm not coding: 🧘‍♂️ self-exploration | 💻 exploring new tech | 🥾 hiking | ☕ coffee
+- When I'm not coding: 🧘‍♂️ soul seeking | 💻 exploring tech | 🥾 hiking | ☕ coffee
 
 ## 🏃 My Journey So Far
 ```text
@@ -95,21 +95,24 @@ Replace the example projects below with your own.
    │
    ├── 🛍️ Rakuten *(2015 – 2016)* 
    │     E-commerce, inventory & supply chain management innovation  
-   │
+   │ 
+   │── 🏢 Open Data for a Government Project *(2016)* 
+   │     Budgets, Sectors, Officials, Zones
+   │ 
    ├── ✈️ XcelTrip *(2017 – 2018)*  
    │     Travel with crypto and payment gateways
    │
    ├── 🏦 Global IME Bank *(2018 – 2020)*  
-   │     Core banking & FinTech systems  
+   │     Core banking & FinTech systems
    │
    ├── ☁️ CloudFactory *(2020 – 2021)*  
-   │     Data ops & crowd-powered solutions  
+   │     Data ops & crowd-powered solutions
    │
    ├── 🧠 Mercanto *(2021 – 2023)*  
-   │     B2B2C supply chain and E-commerce with step pay for B2B clients
+   │     B2B2C supply chain and E-commerce with payment integration and step pay for B2B clients
    │
    └── 👵 Conpago *(2024 – Present)*
-         Aged care tech, real-world impact 
+         Aged care and NDIS tech, real-world impact 
 ```
 
 ## 📫 Connect with Me
