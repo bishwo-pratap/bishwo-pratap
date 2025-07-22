@@ -85,7 +85,7 @@ Replace the example projects below with your own.
 
 - ⚡ The Motto: THE ONLY CONSTANT IS CHANGE :)
   
-- When I'm not coding: 🧘‍♂️ soul seeking | 💻 exploring tech | 🥾 hiking | ☕ coffee
+- When I'm not coding: 🧘‍♂️ soul seeking | 🥾 hiking | ☕ coffee
 
 ## 🏃 My Journey So Far
 ```text
