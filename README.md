@@ -64,7 +64,7 @@ Replace the example projects below with your own.
 
 - 💬 Ask me about **<i> express, Nest, React, JS, TS, AWS, Testing, System Designs, Scalable Systems, MicroServices</i>**
 
-- 🧠 Advocate of **Test-Driven Development (TDD)** and sustainable engineering practices
+- 🧠 **Test-Driven Development (TDD)** and sustainable engineering practices
 
 - ⚙️ Proficient in Agile methodologies, delivering high-value iterations in dynamic environments
 
@@ -78,8 +78,6 @@ Replace the example projects below with your own.
   - 🩺 Health Tech
   - 📦 Inventory & Supply Chain
   - 🧑‍💼 Workforce Management
-
-- 🌱 I’m currently learning <b>Akashic Records 📖, Pranic Healing 🧙‍♂️</b>
 
 - 🤖 <b>10 years</b> in the grind
   
