@@ -94,7 +94,7 @@ Replace the example projects below with your own.
    ├── 🛍️ Rakuten *(2015 – 2016)* 
    │     E-commerce, inventory & supply chain management innovation  
    │ 
-   │── 🏢 Open Data for a Government Project *(2016)* 
+   │── 🏢 Open Data Government Project *(2016)* 
    │     Budgets, Sectors, Officials, Zones
    │ 
    ├── ✈️ XcelTrip *(2017 – 2018)*  
@@ -104,13 +104,13 @@ Replace the example projects below with your own.
    │     Core banking & FinTech systems
    │
    ├── ☁️ CloudFactory *(2020 – 2021)*  
-   │     Data ops & crowd-powered solutions
+   │     Data ops & crowd-sourced solutions
    │
    ├── 🧠 Mercanto *(2021 – 2023)*  
    │     B2B2C supply chain and E-commerce with payment integration and step pay for B2B clients
    │
    └── 👵 Conpago *(2024 – Present)*
-         Aged care and NDIS tech, real-world impact 
+         B2B2C Aged care and NDIS tech, real-world impact 
 ```
 
 ## 📫 Connect with Me
