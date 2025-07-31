@@ -51,7 +51,7 @@ Replace the example projects below with your own.
     <a href="https://mercanto.mx/" target="blank"><b>Mercanto</b></a> - A highly scalable solution for Mexican businesses facilitating Business to Business to Customer engagement. 
   </li>
   <li>
-    <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event driven banking solution, 3.5+ million users, 3400+ requests per second (1500+ transactions per second), average scale rate of approx 3.08% per service.
+    <a href="https://www.globalimebank.com/products/digital-payments/global-smart-plus/" target="__blank"><b>Global SmartPlus - Global IME Bank</b></a> - highly scalable, event-driven banking solution, 3.5+ million users, capable of serving 3400+ requests per second (1500+ transactions per second), average scale rate of approx 3.08% per service for (65 services+).
   </li>
 </ul>
 
@@ -62,13 +62,13 @@ Replace the example projects below with your own.
 
 - 👯 I’m looking to collaborate on <b>building tech</b>
 
-- 💬 Ask me about **<i> express, Nest, React, JS, TS, AWS, Testing, System Designs, Scalable Systems, MicroServices</i>**
+- 💬 Ask me about **<i> Express, Nest, React, JS, TS, AWS, Testing, System Designs, Scalable Systems, MicroServices, GQL</i>**
 
 - 🧠 **Test-Driven Development (TDD)** and sustainable engineering practices
 
 - ⚙️ Proficient in Agile methodologies, delivering high-value iterations in dynamic environments
 
-- 🧭 Contributor to **40** projects across:
+- 🧭 Contributor to **40** SaaS projects across:
 
   - 💳 Fintech
     - 🏦 Traditional / Centralized
